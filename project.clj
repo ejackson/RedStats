@@ -1,4 +1,4 @@
-(defproject tradedesk "1.1.1-SNAPSHOT"
+(defproject redstats "0.1-SNAPSHOT"
   :description "Use reduces for a stats libary"
   :dependencies [[org.clojure/clojure "1.5.0-master-SNAPSHOT"]
                  [org.codehaus.jsr166-mirror/jsr166y "1.7.0"]]
